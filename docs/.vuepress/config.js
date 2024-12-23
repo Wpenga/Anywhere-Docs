@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/Anywhere-Docs/',
+//  base: '/Anywhere-Docs/',
   title: 'Anywhere-',
   dest: "./dist",
   head: [
